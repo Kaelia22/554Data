@@ -1,0 +1,69 @@
+[
+    {
+      "Country": "Georgia",
+      "Year": "2010",
+      "Total fertility rate": "1.9",
+      "Infant mortality for both sexes": "12.7",
+      "Life expectancy at birth for both sexes": "72.1",
+      "Life expectancy at birth for males": "67.6",
+      "Life expectancy at birth for females": "76.6",
+      "Population annual rate of increase": "-0.4",
+      "Maternal mortality ratio": "32"
+    },
+    {
+      "Country": "Georgia",
+      "Year": "2015",
+      "Total fertility rate": "2.2",
+      "Infant mortality for both sexes": "9.5",
+      "Life expectancy at birth for both sexes": "73.3",
+      "Life expectancy at birth for males": "68.5",
+      "Life expectancy at birth for females": "78.1",
+      "Population annual rate of increase": "0.0",
+      "Maternal mortality ratio": "27"
+    },
+    {
+      "Country": "Georgia",
+      "Year": "2017",
+      "Total fertility rate": "2.1",
+      "Infant mortality for both sexes": "8.9",
+      "Life expectancy at birth for both sexes": "73.6",
+      "Life expectancy at birth for males": "68.8",
+      "Life expectancy at birth for females": "78.2",
+      "Population annual rate of increase": "0.0",
+      "Maternal mortality ratio": "25"
+    },
+    {
+      "Country": "Northern Africa",
+      "Year": "2010",
+      "Total fertility rate": "3.2",
+      "Infant mortality for both sexes": "29.5",
+      "Life expectancy at birth for both sexes": "69.6",
+      "Life expectancy at birth for males": "67.5",
+      "Life expectancy at birth for females": "71.8",
+      "Population annual rate of increase": "1.9",
+      "Maternal mortality ratio": "148"
+    },
+    {
+      "Country": "Northern Africa",
+      "Year": "2015",
+      "Total fertility rate": "3.4",
+      "Infant mortality for both sexes": "25.3",
+      "Life expectancy at birth for both sexes": "70.9",
+      "Life expectancy at birth for males": "68.7",
+      "Life expectancy at birth for females": "73.2",
+      "Population annual rate of increase": "2.1",
+      "Maternal mortality ratio": "120"
+    },
+    {
+      "Country": "Northern Africa",
+      "Year": "2017",
+      "Total fertility rate": "3.2",
+      "Infant mortality for both sexes": "24.2",
+      "Life expectancy at birth for both sexes": "71.5",
+      "Life expectancy at birth for males": "69.3",
+      "Life expectancy at birth for females": "73.9",
+      "Population annual rate of increase": "2.0",
+      "Maternal mortality ratio": "115"
+    }
+  ]
+  
